@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on Amor</title>
+    <link>https://levingtonwest.github.io/sparga/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on Amor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 27 Sep 2022 07:30:31 +0000</lastBuildDate><atom:link href="https://levingtonwest.github.io/sparga/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world!</title>
+      <link>https://levingtonwest.github.io/sparga/hello-world/</link>
+      <pubDate>Tue, 27 Sep 2022 07:30:31 +0000</pubDate>
+      
+      <guid>https://levingtonwest.github.io/sparga/hello-world/</guid>
+      <description>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</description>
+    </item>
+    
+  </channel>
+</rss>
